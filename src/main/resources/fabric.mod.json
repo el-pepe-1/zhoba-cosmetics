@@ -2,16 +2,15 @@
 	"schemaVersion": 1,
 	"id": "zbcosmetics",
 	"version": "${version}",
-	"name": "ZhoBa Cosmetics",
+	"name": "ZhOba Cosmetics",
 	"description": "This mod adds a bunch of beautiful cosmetic hats to your game!",
 	"authors": [
-		"ZhoBa Team",
+		"ZhOba Team",
 		"Zhizh",
 		"aBoba"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/el-pepe-1/zhobli-cosmetics"
 	},
 	"license": "MIT",
 	"icon": "assets/zbcosmetics/icon.png",

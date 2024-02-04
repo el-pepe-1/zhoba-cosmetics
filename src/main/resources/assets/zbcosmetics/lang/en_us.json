@@ -20,6 +20,7 @@
 
   "tooltip.zbcosmetics.press_shift": "Press §b§l[SHIFT]§r for more info!",
 
+  "text.autoconfig.zbcosmetics.title": "Zbcosmetics Config",
   "text.autoconfig.zbcosmetics.category.client": "Client",
   "text.autoconfig.zbcosmetics.category.server": "Server",
   "text.autoconfig.zbcosmetics.option.clientModule.builderHelmetEmitsLight": "Builder Helmet Emits Light",
