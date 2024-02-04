@@ -1,0 +1,131 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"1": "zbcosmetics:item/models/olyosha"
+	},
+	"elements": [
+		{
+			"from": [0, 5, 0],
+			"to": [16, 9, 16],
+			"faces": {
+				"north": {"uv": [4, 4, 8, 5], "texture": "#1"},
+				"east": {"uv": [0, 4, 4, 5], "texture": "#1"},
+				"south": {"uv": [12, 4, 16, 5], "texture": "#1"},
+				"west": {"uv": [8, 4, 12, 5], "texture": "#1"},
+				"up": {"uv": [8, 4, 4, 0], "texture": "#1"},
+				"down": {"uv": [12, 0, 8, 4], "texture": "#1"}
+			}
+		},
+		{
+			"from": [2, 9, 2],
+			"to": [14, 11, 14],
+			"faces": {
+				"north": {"uv": [3, 8, 6, 8.5], "texture": "#1"},
+				"east": {"uv": [0, 8, 3, 8.5], "texture": "#1"},
+				"south": {"uv": [9, 8, 12, 8.5], "texture": "#1"},
+				"west": {"uv": [6, 8, 9, 8.5], "texture": "#1"},
+				"up": {"uv": [6, 8, 3, 5], "texture": "#1"},
+				"down": {"uv": [9, 5, 6, 8], "texture": "#1"}
+			}
+		},
+		{
+			"from": [4, 11, 4],
+			"to": [12, 12, 12],
+			"faces": {
+				"north": {"uv": [10, 10.5, 12, 10.75], "texture": "#1"},
+				"east": {"uv": [8, 10.5, 10, 10.75], "texture": "#1"},
+				"south": {"uv": [14, 10.5, 16, 10.75], "texture": "#1"},
+				"west": {"uv": [12, 10.5, 14, 10.75], "texture": "#1"},
+				"up": {"uv": [12, 10.5, 10, 8.5], "texture": "#1"},
+				"down": {"uv": [14, 8.5, 12, 10.5], "texture": "#1"}
+			}
+		},
+		{
+			"from": [4, 11, 4],
+			"to": [12, 12, 12],
+			"faces": {
+				"north": {"uv": [10, 10.5, 12, 10.75], "texture": "#1"},
+				"east": {"uv": [8, 10.5, 10, 10.75], "texture": "#1"},
+				"south": {"uv": [14, 10.5, 16, 10.75], "texture": "#1"},
+				"west": {"uv": [12, 10.5, 14, 10.75], "texture": "#1"},
+				"up": {"uv": [12, 10.5, 10, 8.5], "texture": "#1"},
+				"down": {"uv": [14, 8.5, 12, 10.5], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Head",
+			"from": [3.5, 1, 3.5],
+			"to": [12.5, 4, 3.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [9, 5, 11, 5.75], "texture": "#1"},
+				"east": {"uv": [9, 5, 9, 5.75], "texture": "#1"},
+				"south": {"uv": [9, 5, 11, 5.75], "texture": "#1"},
+				"west": {"uv": [11.25, 5, 11.25, 5.75], "texture": "#1"},
+				"up": {"uv": [11.25, 5, 9, 5], "texture": "#1"},
+				"down": {"uv": [13.5, 5, 11.25, 5], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Head",
+			"from": [3.5, 1, 3.5],
+			"to": [3.5, 4, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [1.25, 2, 1.25, 2.75], "texture": "#1"},
+				"east": {"uv": [2.5, 2, 1.25, 2.75], "texture": "#1"},
+				"south": {"uv": [2.5, 2, 2.5, 2.75], "texture": "#1"},
+				"west": {"uv": [1.25, 2, 2.5, 2.75], "texture": "#1"},
+				"up": {"uv": [1.25, 2, 1.25, 0.75], "texture": "#1"},
+				"down": {"uv": [1.25, 0.75, 1.25, 2], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Head",
+			"from": [12.5, 1, 3.5],
+			"to": [12.5, 4, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [1.25, 1.25, 1.25, 2], "texture": "#1"},
+				"east": {"uv": [0, 1.25, 1.25, 2], "texture": "#1"},
+				"south": {"uv": [2.5, 1.25, 2.5, 2], "texture": "#1"},
+				"west": {"uv": [1.25, 1.25, 0, 2], "texture": "#1"},
+				"up": {"uv": [1.25, 1.25, 1.25, 0], "texture": "#1"},
+				"down": {"uv": [1.25, 0, 1.25, 1.25], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-69.01, 42.95, -22.68],
+			"scale": [0.69, 0.69, 0.69]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-69.01, 42.95, -22.68],
+			"scale": [0.69, 0.69, 0.69]
+		},
+		"firstperson_righthand": {
+			"rotation": [-18.75, 0, 17.75],
+			"translation": [0, 1.5, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-18.75, 0, 17.75],
+			"translation": [0, 1.5, 0]
+		},
+		"ground": {
+			"translation": [0, 3.5, 0]
+		},
+		"gui": {
+			"rotation": [-165.3, 45.71, 179.76]
+		},
+		"head": {
+			"translation": [0, 7.75, 0],
+			"scale": [1.55, 1.55, 1.55]
+		},
+		"fixed": {
+			"translation": [0, 2.5, 4.75],
+			"scale": [1.55, 1.55, 1.55]
+		}
+	}
+}

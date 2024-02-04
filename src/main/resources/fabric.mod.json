@@ -1,0 +1,50 @@
+{
+	"schemaVersion": 1,
+	"id": "zbcosmetics",
+	"version": "${version}",
+	"name": "ZhoBa Cosmetics",
+	"description": "This mod adds a bunch of beautiful cosmetic hats to your game!",
+	"authors": [
+		"ZhoBa Team",
+		"Zhizh",
+		"aBoba"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/zbcosmetics/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.elpepe.Zbcosmetics"
+		],
+		"client": [
+			"com.elpepe.ZbcosmeticsClient"
+		],
+		"fabric-datagen": [
+			"com.elpepe.ZbcosmeticsDataGenerator"
+		],
+		"modmenu": [
+			"com.elpepe.config.ZbcosmeticsModMenu"
+		]
+
+	},
+	"mixins": [
+		"zbcosmetics.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.6",
+		"minecraft": "~1.20",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"recommends": {
+		"cloth-config":  "~11.1.118",
+		"cosmetic-armor": "~1.6.0"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

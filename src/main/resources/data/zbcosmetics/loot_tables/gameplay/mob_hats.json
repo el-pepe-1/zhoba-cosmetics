@@ -1,0 +1,69 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "zbcosmetics:cowboy_hat"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "zbcosmetics:hay_hat"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "zbcosmetics:bow_knot_aboba"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "zbcosmetics:bow_knot_sayori"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "zbcosmetics:olyosha"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "zbcosmetics:zarif_cloth"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "zbcosmetics:big_shot_glasses"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "zbcosmetics:seliaset_horns"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "zbcosmetics:present_hat"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "zbcosmetics:cake_hat"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "zbcosmetics:builder_helmet"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "zbcosmetics:anvil_hat"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "zbcosmetics:sombrero"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "zbcosmetics:crazy_dave"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "zbcosmetics:olezhe_hat"
+        }
+      ]
+    }
+  ]
+}

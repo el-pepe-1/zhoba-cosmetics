@@ -1,0 +1,28 @@
+{
+  "item.zbcosmetics.cowboy_hat": "Cowboy Hat",
+  "item.zbcosmetics.hay_hat": "Hay Hat",
+  "item.zbcosmetics.bow_knot_aboba": "Bow Knot aBoba",
+  "item.zbcosmetics.bow_knot_sayori": "Bow Knot Sayori",
+  "item.zbcosmetics.zarif_cloth": "Zarif Cloth",
+  "item.zbcosmetics.olyosha": "Olysha",
+  "item.zbcosmetics.lunatic_mask": "Lunatic Mask",
+  "item.zbcosmetics.builder_helmet": "Builder Helmet",
+  "item.zbcosmetics.big_shot_glasses": "Big Shot Glasses",
+  "item.zbcosmetics.seliaset_horns": "Seliaset Horns",
+  "item.zbcosmetics.present_hat": "Present Hat",
+  "item.zbcosmetics.cake_hat": "Cake Hat",
+  "item.zbcosmetics.crazy_dave": "Crazy Dave",
+  "item.zbcosmetics.anvil_hat": "Anvil Hat",
+  "item.zbcosmetics.sombrero": "Sombrero",
+  "item.zbcosmetics.olezhe_hat": "Olezhe Hat",
+
+  "itemgroup.zbcosmetics_main": "ZhOba Cosmetics",
+
+  "tooltip.zbcosmetics.press_shift": "Press §b§l[SHIFT]§r for more info!",
+
+  "text.autoconfig.zbcosmetics.category.client": "Client",
+  "text.autoconfig.zbcosmetics.category.server": "Server",
+  "text.autoconfig.zbcosmetics.option.clientModule.builderHelmetEmitsLight": "Builder Helmet Emits Light",
+  "text.autoconfig.zbcosmetics.option.serverModule.hatDropChance": "Hat Drop Chance (%)",
+  "text.autoconfig.zbcosmetics.option.serverModule.hatDropChance.@Tooltip": "Percentage chance of getting a hat from a mob"
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#Y#",
+    "#R#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:string"
+    },
+    "Y": {
+      "item": "minecraft:yellow_dye"
+    },
+    "R": {
+      "item": "minecraft:red_wool"
+    }
+  },
+  "result": {
+    "item": "zbcosmetics:present_hat",
+    "count": 1
+  }
+}

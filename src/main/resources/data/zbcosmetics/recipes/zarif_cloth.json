@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "WEW",
+    "WWW"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:white_carpet"
+    },
+    "W": {
+      "item": "minecraft:white_wool"
+    },
+    "E": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "zbcosmetics:zarif_cloth",
+    "count": 1
+  }
+}

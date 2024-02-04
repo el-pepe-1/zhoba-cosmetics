@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "GBG",
+    "BAB"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:red_mushroom_block"
+    },
+    "G": {
+      "item": "minecraft:glass_pane"
+    },
+    "B": {
+      "item": "minecraft:bamboo"
+    },
+    "A": {
+      "item": "minecraft:black_dye"
+    }
+  },
+  "result": {
+    "item": "zbcosmetics:olyosha",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    " L ",
+    "TTT"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:gray_wool"
+    },
+    "L": {
+      "item": "minecraft:light_gray_carpet"
+    },
+    "T": {
+      "item": "minecraft:light_gray_wool"
+    }
+  },
+  "result": {
+    "item": "zbcosmetics:anvil_hat",
+    "count": 1
+  }
+}

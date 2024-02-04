@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#BY",
+    "BWB"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:pink_stained_glass_pane"
+    },
+    "B": {
+      "item": "minecraft:bamboo"
+    },
+    "Y": {
+      "item": "minecraft:yellow_stained_glass_pane"
+    },
+    "W": {
+      "item": "minecraft:black_dye"
+    }
+  },
+  "result": {
+    "item": "zbcosmetics:big_shot_glasses",
+    "count": 1
+  }
+}

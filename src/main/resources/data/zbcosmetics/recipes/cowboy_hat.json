@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "LGL",
+    "SOS"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:leather_helmet"
+    },
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "G": {
+      "item": "minecraft:gold_nugget"
+    },
+    "S": {
+      "item": "minecraft:string"
+    },
+    "O": {
+      "item": "minecraft:green_dye"
+    }
+  },
+  "result": {
+    "item": "zbcosmetics:cowboy_hat",
+    "count": 1
+  }
+}

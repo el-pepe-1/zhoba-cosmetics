@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#P#",
+    "SOS"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:pink_carpet"
+    },
+    "P": {
+      "item": "minecraft:pink_wool"
+    },
+    "S": {
+      "item": "minecraft:string"
+    },
+    "O": {
+      "item": "minecraft:pink_dye"
+    }
+  },
+  "result": {
+    "item": "zbcosmetics:bow_knot_aboba",
+    "count": 1
+  }
+}

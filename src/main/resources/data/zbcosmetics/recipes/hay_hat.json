@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " #R",
+    "#H#",
+    "S#S"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:wheat"
+    },
+    "R": {
+      "item": "minecraft:red_dye"
+    },
+    "H": {
+      "item": "minecraft:hay_block"
+    },
+    "S": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "zbcosmetics:hay_hat",
+    "count": 1
+  }
+}

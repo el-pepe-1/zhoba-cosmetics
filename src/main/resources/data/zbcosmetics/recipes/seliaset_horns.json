@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# #",
+    "BGB",
+    " C "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:gold_nugget"
+    },
+    "B": {
+      "item": "minecraft:black_candle"
+    },
+    "G": {
+      "item": "minecraft:gold_block"
+    },
+    "C": {
+      "item": "minecraft:black_dye"
+    }
+  },
+  "result": {
+    "item": "zbcosmetics:seliaset_horns",
+    "count": 1
+  }
+}

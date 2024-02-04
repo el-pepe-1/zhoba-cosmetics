@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "YIW",
+    " Y "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:lantern"
+    },
+    "Y": {
+      "item": "minecraft:yellow_dye"
+    },
+    "I": {
+      "item": "minecraft:iron_helmet"
+    },
+    "W": {
+      "item": "minecraft:heavy_weighted_pressure_plate"
+    }
+  },
+  "result": {
+    "item": "zbcosmetics:builder_helmet",
+    "count": 1
+  }
+}
