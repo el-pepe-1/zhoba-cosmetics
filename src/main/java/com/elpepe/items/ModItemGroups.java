@@ -1,6 +1,7 @@
 package com.elpepe.items;
 
 import com.elpepe.Zbcosmetics;
+import com.elpepe.blocks.ModBlocks;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
@@ -15,6 +16,7 @@ public class ModItemGroups {
             FabricItemGroup.builder().displayName(Text.translatable("itemgroup.zbcosmetics_main"))
                     .icon(() -> new ItemStack(ModItems.HAY_HAT))
                     .entries(((displayContext, entries) -> {
+                        entries.add(ModBlocks.HAT_STATION);
                         entries.add(ModItems.COWBOY_HAT);
                         entries.add(ModItems.HAY_HAT);
                         entries.add(ModItems.BOW_KNOT_ABOBA);

@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "zbcosmetics:block/hat_station_top",
+    "east": "zbcosmetics:block/hat_station_side",
+    "north": "zbcosmetics:block/hat_station_front",
+    "particle": "zbcosmetics:block/hat_station_front",
+    "south": "zbcosmetics:block/hat_station_side",
+    "up": "zbcosmetics:block/hat_station_top",
+    "west": "zbcosmetics:block/hat_station_front"
+  }
+}

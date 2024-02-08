@@ -1,11 +1,14 @@
 package com.elpepe;
 
+import com.elpepe.blocks.ModBlocks;
 import com.elpepe.config.IdentifierTypeAdapter;
 import com.elpepe.config.ZbcosmeticsConfig;
 import com.elpepe.items.ModItemGroups;
 import com.elpepe.items.ModItems;
 import com.elpepe.networking.ModMessages;
 import com.google.gson.GsonBuilder;
+import com.villager.ModTradeOffers;
+import com.villager.ModVillagers;
 import me.shedaniel.autoconfig.AutoConfig;
 import me.shedaniel.autoconfig.ConfigData;
 import me.shedaniel.autoconfig.ConfigHolder;
@@ -32,6 +35,11 @@ public class Zbcosmetics implements ModInitializer {
 
 		ModItems.registerModItems();
 		ModItemGroups.registerItemGroups();
+
+		ModBlocks.register();
+
+		ModVillagers.register();
+		ModTradeOffers.register();
 
 		ModMessages.registerC2SPackets();
 	}
