@@ -1,4 +1,4 @@
-package com.villager;
+package com.elpepe.villager;
 
 import com.elpepe.Zbcosmetics;
 import com.elpepe.blocks.ModBlocks;

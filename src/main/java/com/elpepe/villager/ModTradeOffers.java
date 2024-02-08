@@ -1,6 +1,5 @@
-package com.villager;
+package com.elpepe.villager;
 
-import com.elpepe.Zbcosmetics;
 import com.elpepe.items.ModItems;
 import net.fabricmc.fabric.api.object.builder.v1.trade.TradeOfferHelper;
 import net.minecraft.item.ItemStack;
