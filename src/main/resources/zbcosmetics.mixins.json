@@ -8,7 +8,10 @@
   ],
   "client": [
     "MouseMixin",
-    "WorldRendererMixin"
+    "WorldRendererMixin",
+    "ItemRendererAccessor",
+    "ItemRendererMixin",
+    "ModelLoaderMixin"
   ],
   "injectors": {
     "defaultRequire": 1

@@ -1,0 +1,55 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"1": "zbcosmetics:item/models/radio_monocle"
+	},
+	"elements": [
+		{
+			"from": [12.6, 0.88, 3.4],
+			"to": [12.6, 4.52, 8.6],
+			"faces": {
+				"north": {"uv": [0.5, 0, 0.5, 4], "texture": "#1"},
+				"east": {"uv": [2, 2, 4, 3.5], "texture": "#1"},
+				"south": {"uv": [0, 0, 0, 4.5], "texture": "#1"},
+				"west": {"uv": [4, 2, 2, 3.5], "texture": "#1"},
+				"up": {"uv": [0, 4.5, 0, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 0, 4.5], "texture": "#missing"}
+			}
+		},
+		{
+			"from": [9.4, 2.1, 3.4],
+			"to": [12.6, 3.3, 3.4],
+			"faces": {
+				"north": {"uv": [4.5, 2.5, 6, 3], "texture": "#1"},
+				"east": {"uv": [0, 0, 0, 0.6], "texture": "#1"},
+				"south": {"uv": [6, 2.5, 4.5, 3], "texture": "#1"},
+				"west": {"uv": [0, 0, 0, 0.6], "texture": "#1"},
+				"up": {"uv": [0, 0, 1.1, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 1.1, 0], "texture": "#missing"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [1.23, -17.94, 7.73],
+			"translation": [-4.75, 2.5, -1.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [1.23, 24, 7.73],
+			"translation": [3.75, 3.5, -1.5]
+		},
+		"firstperson_righthand": {
+			"translation": [3, 8, 1.25],
+			"scale": [2, 2, 2]
+		},
+		"firstperson_lefthand": {
+			"translation": [13.5, 8, 1.25],
+			"scale": [2, 2, 2]
+		},
+		"head": {
+			"translation": [0, 6.45, 0],
+			"scale": [1.6, 1.6, 1.6]
+		}
+	}
+}
