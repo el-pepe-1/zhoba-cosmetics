@@ -31,7 +31,9 @@ public class ModItemGroups {
                         entries.add(ModItems.CRAZY_DAVE);
                         entries.add(ModItems.ANVIL_HAT);
                         entries.add(ModItems.SOMBRERO);
-                        entries.add(ModItems.OLEZHE_HAT);
+                        entries.add(ModItems.BANDANNA);
+                        entries.add(ModItems.GLASSES);
+                        entries.add(ModItems.RADIO_MONOCLE);
                     })).build());
 
     public static void registerItemGroups() {

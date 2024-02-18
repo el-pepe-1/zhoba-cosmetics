@@ -61,7 +61,15 @@
         },
         {
           "type": "minecraft:item",
-          "name": "zbcosmetics:olezhe_hat"
+          "name": "zbcosmetics:bandanna"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "zbcosmetics:glasses"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "zbcosmetics:radio_monocle"
         }
       ]
     }
